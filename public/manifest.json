@@ -1,0 +1,22 @@
+{
+    "name": "Hafiz Enterpices App",
+    "short_name": "H-Enterprice App",
+    "lang": "en-US",
+    "orientation": "any",
+    "start_url": "/",
+    "purpose": "any maskable",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "display": "standalone",
+    "description": "A App Developed By Technoventive Solutions.This app is developed under the conditions of Hafiz (ptv.limited) company.Copy right reserved by Technoventive solutions 2021",
+    "icons": [
+      {
+        "src": "he.png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "he.png",
+        "sizes": "512x512"
+      }
+    ]
+  }
